@@ -83,7 +83,7 @@ Tree-based models use `random_state=42`. Forecast confidence intervals use resam
 
 ## Author
 
-Abdulla Al Kafy
+Mahir Shahrier
 
 ## License
 
